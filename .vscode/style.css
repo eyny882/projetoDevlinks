@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+ /*background-dark */
+:root {
+
+    --text-color: white;
+    --bg-url: url(./assets/bg-mobiledark.jpg) ;
+    --stroke-color:  rgba(255,255,255,0.5);
+    --suface-color: rgba(255,255,255,0.1);
+    --suface-color-hover:rgba(255,255,255,0.05);
+    --hitghlign-color:rgba(218, 218, 218, 0.3);
+    --color-circulo:rgba(255,255,255,0.1); ;
+}   
+
+/*background-cler */
+.light {
+    --text-color: black;
+    --bg-url: url(./assets/bg-mobileclear.jpg);
+    --stroke-color:  rgba(0,0,0,0.5);
+    --suface-color:rgba(0,0,0,0.05);
+    --suface-color-hover:rgba(0,0,0,0.5);
+    --hitghlignt-color: rgba(0,0,0,0.5);
+    --color-Circle: rgba(0,0,0,0.5);
+    
+}
+/*body/img-background */      
+body {
+     
+    background: var(--bg-url) no-repeat top center/cover;
+   
+
+}
+/*body* / fonte do texto e cor */
+body * {
+
+    font-family:"inter", sans-serif;
+    color: var(--text-color);
+
+    
+    
+
+}
+
+#container {
+
+    width: 360px;
+    margin:  56px  auto 24px ;
+    padding: 0 24px;
+
+   
+}
+/* porfile */
+#profile img {
+ 
+    width: 112px;
+   
+}
+/*posição da imagem perfil*/
+#profile {
+   
+    text-align:center ; 
+    padding: 24px;
+
+}
+/* emily@treeunfe.com.br */
+#profile p {
+    font-weight:500;
+    line-height: 24px;
+    margin-top: 8px;
+   
+}
+
+/*switch*/
+/*erro*/
+#swich {
+    position: relative;
+    width: 64px;
+
+    margin: 4px auto;
+}
+/*ciculo white*/
+#switch button {
+    
+    width: 32px;
+    height: 32px;
+    background:var(--color-Circle) center;
+    border: 0;
+    border-radius: 50%;
+    top: 25%;
+    position: absolute;
+    left: 0;
+    z-index: 1;
+    transform: translateY(-25%);
+}  
+ /*centraliza botoes de texto */ 
+
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container-ion {
+    text-align: center;
+  }
+
+/*retangulo aredondado */
+/*#switch span {
+    display:block;
+    width: 64px;
+    height: 24px;
+    
+    background: var(--suface-color);
+    border:1px solid var(--stroke-color);
+    backdrop-filter: blur(4px);
+    --webkit-backdrop-filter: blur(4px);
+    border-radius : 9999px;   
+
+    
+}*/
+
+ /*links- list*/
+ul{
+    list-style: none;
+
+    display: flex;
+    flex-direction: column ;
+    gap: 16px;
+
+    padding: 24px 0;
+    }
+
+/*  botoes Links */
+ul li a{
+    
+   display: flex; 
+   align-items: center;
+   justify-content: center; 
+
+   padding: 16px 24px;
+
+    background:var(--suface-color);
+
+    border: 1px solid var(--suface-color);
+    
+    border-radius: 8px;
+   
+
+   backdrop-filter:blur(1.5px);
+    --webkit-backdrop-filter:blur(1px);
+
+    text-decoration:none;
+    font-weight:500;
+  
+    
+}
+
+/*pseudo-seletor  */
+ul li a:hover {
+    background:var(--suface-color-hover);
+    border: 1.5px var(--text-color);
+    
+}
+
+/*social-links*/
+
+/*alinhamento 01*/
+#social-links{
+    display: flex;
+    justify-content: center;
+   
+    padding: 24px 0;
+
+    font-size: 24px;
+
+}
+/*alinhamento 02*/
+#social-links a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+}
+
+/*circulos */
+#social-links a:hover{
+    background:var(--hitghlign-color);
+    border-radius: 50px;
+
+}
+
+footer{
+padding: 24px 0;
+text-align: center;
+font-size: 14px;
+}
