@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto.rocketseat_WEB </h1>
+<h1 align="center"> Projeto_Devlinks </h1>
 
 <p align="center">
 projeto  exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
