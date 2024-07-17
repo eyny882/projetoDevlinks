@@ -1,4 +1,4 @@
-<h1 align="center">Projeto.rocketseat_WEB</h1>
+<h1 align="center">Projeto-devlinks</h1>
 
 <p align="center">
 progeto  exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -12,7 +12,7 @@ progeto  exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="cover.jpl">
 </p>
 
 <br>
