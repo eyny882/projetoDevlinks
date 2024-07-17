@@ -18,7 +18,7 @@ projeto  exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="abcd" src=".github/preview.jpg" width="100%">
+  <img alt="projeto_devlinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+O progeto_devlinks agregador de links para usar como cartão de visitas oline .
+
 
 ## 🔖 Layout
 
