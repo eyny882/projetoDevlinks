@@ -37,7 +37,7 @@ O progeto_devlinks agregador de links para usar como cartão de visitas oline .
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/TjwirA8S9UoID8F3TYIXal/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=0-1&t=VxSyxzNEbi1fn5N2-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
