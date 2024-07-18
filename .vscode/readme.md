@@ -18,7 +18,7 @@ progeto  exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align ="center">
-  <img alt="abcd" src=".github/preview.jpg" width="100%">
+  <img alt="image-Notion.pmg" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
