@@ -1,24 +1,24 @@
-<h1 align="center">Projeto-devlinks</h1>
+<h1 align="center"> Projeto_Devlinks </h1>
 
 <p align="center">
-progeto  exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+projeto  exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000" >
 </p>
 
 <br>
 
-<p align ="center">
-  <img alt="image-Notion.pmg" src=".github/preview.jpg" width="100%">
+<p align="center">
+  <img alt="Image-Notion.png" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,10 +28,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- figma
+- Figuma
+
 ## 💻 Projeto
 
 O progeto_devlinks agregador de links para usar como cartão de visitas oline .
+
 
 ## 🔖 Layout
 
