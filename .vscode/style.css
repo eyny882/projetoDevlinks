@@ -92,17 +92,17 @@ body * {
     background:var(--color-Circle);
     border: 0;
     border-radius: 50%;
-    top: 25%;
+    top: 23%;
     position: absolute;
     left: 0;
     z-index: 1;
-    transform: translateY(-25%);
+    transform: translateY(-23%);
 }  
  /*centraliza botoes de texto */ 
 
 html, body {
     height: 100%;
-    margin: 0;
+    margin: 0px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -113,10 +113,12 @@ html, body {
   }
 
 /*retangulo aredondado */
-/*#switch span {
-    display:block;
-    width: 64px;
-    height: 24px;
+#switch span {
+    display:inline;
+    
+    padding: 10px 0;
+   /* width: 64px;
+    height: 24px;*/
     
     background: var(--suface-color);
     border:1px solid var(--stroke-color);
@@ -125,7 +127,7 @@ html, body {
     border-radius : 9999px;   
 
     
-}*/
+}
 
  /*links- list*/
 ul{
