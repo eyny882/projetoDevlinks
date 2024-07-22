@@ -1,4 +1,5 @@
 function toggleMove(){
-alert('teste')
+const html = document.documentElement
 
+html.classList.toggle('light');
 }
