@@ -7,13 +7,13 @@
 :root {
 
     --text-color: white;
-    --bg-url: url(./assets/bg-mobiledark.jpg) ;
+    --bg-url: url(./assets/bg-mobiledark.jpg);
     --stroke-color:  rgba(255,255,255,0.5);
     --suface-color: rgba(255,255,255,0.1);
     --suface-color-hover:rgba(255,255,255,0.05);
     --hitghlign-color:rgba(218, 218, 218, 0.3);
     --color-circulo:rgba(255,255,255,0.5);
-    /*--ing-avatar: <img src="./assets/avatardark.jpg"><ing> */
+    --ing-avatar: url(./assets/avatardark.jpg);
 }
   
 
@@ -26,7 +26,7 @@
     --suface-color-hover:rgba(0,0,0,0.5);
     --hitghlignt-color: rgba(0,0,0,0.5);
     --color-Circle: rgba(0,0,0,0.5);
-    /*--ing-avatar: <img src="./assets/avatarclear.jpg"><ing> */
+    --ing-avatar: url(./assets/avatarlight.jpg);
 }
 /*body/img-background */      
 body {
@@ -57,7 +57,7 @@ body * {
 }
 /* porfile */
 #profile img {
- 
+    
     width: 112px;
    
 }
@@ -78,10 +78,10 @@ body * {
 
 /*switch*/
 /*erro*/
-#swich {
-    position: relative;
+/*#swich {
+    position:center;
     width: 64px;
-
+border:red 3px;
     margin: 4px auto;
 }
 /*ciculo white*/
@@ -92,7 +92,7 @@ body * {
     background:var(--color-Circle);
     border: 0;
     border-radius: 50%;*/
-    top: 23%;
+    top:23%;
     position: absolute;
     left: 0;
     z-index: 1;
@@ -113,6 +113,7 @@ html, body {
   }
 
 /*retangulo aredondado */
+
 #switch span {
     display:flex;
    /* max-width:10px; */
