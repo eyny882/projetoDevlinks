@@ -7,7 +7,7 @@
 :root {
 
     --text-color: white;
-    --bg-url: url(./assets/bg-mobiledark.jpg);
+    --bg-url: url(./assets/img2.jpg);
     --stroke-color:  rgba(255,255,255,0.5);
     --suface-color: rgba(255,255,255,0.1);
     --suface-color-hover:rgba(255,255,255,0.05);
@@ -20,7 +20,7 @@
 /*background-cler */
 .light {
     --text-color: black;
-    --bg-url: url(./assets/bg-mobileclear.jpg);
+    --bg-url: url(./assets/imgclear.jpg);
     --stroke-color:  rgba(0,0,0,0.5);
     --suface-color:rgba(0,0,0,0.05);
     --suface-color-hover:rgba(0,0,0,0.5);
