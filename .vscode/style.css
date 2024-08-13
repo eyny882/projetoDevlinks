@@ -83,7 +83,7 @@ body * {
 #swich {
     position:center;
     width: 64px;
-border:red 3px;
+border:red 1px;
     margin: 4px auto;
 }
 /*ciculo white*/
@@ -133,7 +133,7 @@ html, body {
     backdrop-filter: blur(5px);
     --webkit-backdrop-filter: blur(4px);
     border-radius: 50%;  
-
+ 
   
 }
 
